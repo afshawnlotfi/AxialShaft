@@ -1,0 +1,15 @@
+{
+    "path": "/shaft/shaft_0/rotor_0",
+    "location": null,
+    "children": [],
+    "parts": [
+        {
+            "path": "/shaft/shaft_0/rotor_0/rotor_part_0",
+            "variation": {
+                "checksum": "7ae901f7b84544aa77c520765c99df36",
+                "id": 1
+            },
+            "location": null
+        }
+    ]
+}

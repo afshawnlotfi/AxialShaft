@@ -1,0 +1,38 @@
+{
+    "path": "/shaft/shaft_0/blade-row_0/blade4_0/ae91a650-4a5b-11ef-887c-0242ac110002_0",
+    "location": {
+        "position": [
+            0.0,
+            0.0,
+            -6.470411697054
+        ],
+        "orientation": [
+            [
+                1.0,
+                0.0,
+                0.0
+            ],
+            [
+                0.0,
+                -1.0,
+                0.0
+            ],
+            [
+                0.0,
+                0.0,
+                -1.0
+            ]
+        ]
+    },
+    "children": [],
+    "parts": [
+        {
+            "path": "/shaft/shaft_0/blade-row_0/blade4_0/ae91a650-4a5b-11ef-887c-0242ac110002_0/ae91a650-4a5b-11ef-887c-0242ac110002_part_0",
+            "variation": {
+                "checksum": "6196dae2942fef1caf7ef10ce636d126",
+                "id": 1
+            },
+            "location": null
+        }
+    ]
+}

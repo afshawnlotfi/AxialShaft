@@ -1,0 +1,182 @@
+{
+    "items": {
+        "6196dae2942fef1caf7ef10ce636d126": {
+            "name": "HeatSetNut-Hilitchi-M2-0.4_part_0",
+            "variations": [
+                {
+                    "id": 1,
+                    "references": [
+                        "/shaft/shaft_0/blade-row_0/blade0_0/ae91a650-4a5b-11ef-887c-0242ac110002_0/ae91a650-4a5b-11ef-887c-0242ac110002_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade1_0/ae91a650-4a5b-11ef-887c-0242ac110002_0/ae91a650-4a5b-11ef-887c-0242ac110002_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade2_0/ae91a650-4a5b-11ef-887c-0242ac110002_0/ae91a650-4a5b-11ef-887c-0242ac110002_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade3_0/ae91a650-4a5b-11ef-887c-0242ac110002_0/ae91a650-4a5b-11ef-887c-0242ac110002_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade4_0/ae91a650-4a5b-11ef-887c-0242ac110002_0/ae91a650-4a5b-11ef-887c-0242ac110002_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade5_0/ae91a650-4a5b-11ef-887c-0242ac110002_0/ae91a650-4a5b-11ef-887c-0242ac110002_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade6_0/ae91a650-4a5b-11ef-887c-0242ac110002_0/ae91a650-4a5b-11ef-887c-0242ac110002_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade7_0/ae91a650-4a5b-11ef-887c-0242ac110002_0/ae91a650-4a5b-11ef-887c-0242ac110002_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade8_0/ae91a650-4a5b-11ef-887c-0242ac110002_0/ae91a650-4a5b-11ef-887c-0242ac110002_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade9_0/ae91a650-4a5b-11ef-887c-0242ac110002_0/ae91a650-4a5b-11ef-887c-0242ac110002_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade10_0/ae91a650-4a5b-11ef-887c-0242ac110002_0/ae91a650-4a5b-11ef-887c-0242ac110002_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade11_0/ae91a650-4a5b-11ef-887c-0242ac110002_0/ae91a650-4a5b-11ef-887c-0242ac110002_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade12_0/ae91a650-4a5b-11ef-887c-0242ac110002_0/ae91a650-4a5b-11ef-887c-0242ac110002_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade13_0/ae91a650-4a5b-11ef-887c-0242ac110002_0/ae91a650-4a5b-11ef-887c-0242ac110002_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade14_0/ae91a650-4a5b-11ef-887c-0242ac110002_0/ae91a650-4a5b-11ef-887c-0242ac110002_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade15_0/ae91a650-4a5b-11ef-887c-0242ac110002_0/ae91a650-4a5b-11ef-887c-0242ac110002_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade16_0/ae91a650-4a5b-11ef-887c-0242ac110002_0/ae91a650-4a5b-11ef-887c-0242ac110002_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade17_0/ae91a650-4a5b-11ef-887c-0242ac110002_0/ae91a650-4a5b-11ef-887c-0242ac110002_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade18_0/ae91a650-4a5b-11ef-887c-0242ac110002_0/ae91a650-4a5b-11ef-887c-0242ac110002_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade19_0/ae91a650-4a5b-11ef-887c-0242ac110002_0/ae91a650-4a5b-11ef-887c-0242ac110002_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade20_0/ae91a650-4a5b-11ef-887c-0242ac110002_0/ae91a650-4a5b-11ef-887c-0242ac110002_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade21_0/ae91a650-4a5b-11ef-887c-0242ac110002_0/ae91a650-4a5b-11ef-887c-0242ac110002_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade22_0/ae91a650-4a5b-11ef-887c-0242ac110002_0/ae91a650-4a5b-11ef-887c-0242ac110002_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade23_0/ae91a650-4a5b-11ef-887c-0242ac110002_0/ae91a650-4a5b-11ef-887c-0242ac110002_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade24_0/ae91a650-4a5b-11ef-887c-0242ac110002_0/ae91a650-4a5b-11ef-887c-0242ac110002_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade25_0/ae91a650-4a5b-11ef-887c-0242ac110002_0/ae91a650-4a5b-11ef-887c-0242ac110002_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade26_0/ae91a650-4a5b-11ef-887c-0242ac110002_0/ae91a650-4a5b-11ef-887c-0242ac110002_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade27_0/ae91a650-4a5b-11ef-887c-0242ac110002_0/ae91a650-4a5b-11ef-887c-0242ac110002_part_0",
+                        "/shaft/shaft_0/shaft-connect_0/HeatSetNut-Hilitchi-M2-0.4_0/HeatSetNut-Hilitchi-M2-0.4_part_0",
+                        "/shaft/shaft_0/shaft-connect_0/aaa1a0d6-4a5b-11ef-887c-0242ac110002_0/HeatSetNut-Hilitchi-M2-0.4_part_0",
+                        "/shaft/shaft_0/shaft-connect_0/aaa1a16c-4a5b-11ef-887c-0242ac110002_0/HeatSetNut-Hilitchi-M2-0.4_part_0",
+                        "/shaft/shaft_0/shaft-connect_0/aaa1a1ee-4a5b-11ef-887c-0242ac110002_0/HeatSetNut-Hilitchi-M2-0.4_part_0"
+                    ],
+                    "color": [
+                        204.0,
+                        204.0,
+                        204.0,
+                        1.0
+                    ],
+                    "metadata": null
+                }
+            ]
+        },
+        "cfa9d131167f1b0d9de917392b9b3fef": {
+            "name": "blade_part_0",
+            "variations": [
+                {
+                    "id": 1,
+                    "references": [
+                        "/shaft/shaft_0/blade-row_0/blade0_0/blade_0/blade_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade1_0/blade_0/blade_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade2_0/blade_0/blade_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade3_0/blade_0/blade_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade4_0/blade_0/blade_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade5_0/blade_0/blade_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade6_0/blade_0/blade_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade7_0/blade_0/blade_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade8_0/blade_0/blade_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade9_0/blade_0/blade_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade10_0/blade_0/blade_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade11_0/blade_0/blade_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade12_0/blade_0/blade_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade13_0/blade_0/blade_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade14_0/blade_0/blade_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade15_0/blade_0/blade_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade16_0/blade_0/blade_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade17_0/blade_0/blade_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade18_0/blade_0/blade_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade19_0/blade_0/blade_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade20_0/blade_0/blade_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade21_0/blade_0/blade_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade22_0/blade_0/blade_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade23_0/blade_0/blade_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade24_0/blade_0/blade_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade25_0/blade_0/blade_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade26_0/blade_0/blade_part_0",
+                        "/shaft/shaft_0/blade-row_0/blade27_0/blade_0/blade_part_0"
+                    ],
+                    "color": [
+                        204.0,
+                        204.0,
+                        204.0,
+                        1.0
+                    ],
+                    "metadata": null
+                }
+            ]
+        },
+        "7ae901f7b84544aa77c520765c99df36": {
+            "name": "rotor_part_0",
+            "variations": [
+                {
+                    "id": 1,
+                    "references": [
+                        "/shaft/shaft_0/rotor_0/rotor_part_0"
+                    ],
+                    "color": [
+                        204.0,
+                        204.0,
+                        204.0,
+                        1.0
+                    ],
+                    "metadata": null
+                }
+            ]
+        },
+        "004eb64ead80523a7212c1faa49e48bc": {
+            "name": "SocketHeadCapScrew-iso4762-M2-0.4x12.0_part_0",
+            "variations": [
+                {
+                    "id": 1,
+                    "references": [
+                        "/shaft/shaft_0/shaft-connect_0/ad1c16ac-4a5b-11ef-887c-0242ac110002_0/SocketHeadCapScrew-iso4762-M2-0.4x12.0_part_0",
+                        "/shaft/shaft_0/shaft-connect_0/ad1c1972-4a5b-11ef-887c-0242ac110002_0/SocketHeadCapScrew-iso4762-M2-0.4x12.0_part_0",
+                        "/shaft/shaft_0/shaft-connect_0/ad1c1a1c-4a5b-11ef-887c-0242ac110002_0/SocketHeadCapScrew-iso4762-M2-0.4x12.0_part_0",
+                        "/shaft/shaft_0/shaft-connect_0/ad1c1a9e-4a5b-11ef-887c-0242ac110002_0/SocketHeadCapScrew-iso4762-M2-0.4x12.0_part_0"
+                    ],
+                    "color": [
+                        204.0,
+                        204.0,
+                        204.0,
+                        1.0
+                    ],
+                    "metadata": null
+                }
+            ]
+        },
+        "09d18b470aa545f4aba4e8678a596727": {
+            "name": "SocketHeadCapScrew-iso4762-M2-0.4x10.0_part_0",
+            "variations": [
+                {
+                    "id": 1,
+                    "references": [
+                        "/shaft/shaft_0/blade-locks_0/a8cb289a-4a5b-11ef-887c-0242ac110002_0/SocketHeadCapScrew-iso4762-M2-0.4x10.0_part_0",
+                        "/shaft/shaft_0/blade-locks_0/a8cb2ba6-4a5b-11ef-887c-0242ac110002_0/SocketHeadCapScrew-iso4762-M2-0.4x10.0_part_0",
+                        "/shaft/shaft_0/blade-locks_0/a8cb2c78-4a5b-11ef-887c-0242ac110002_0/SocketHeadCapScrew-iso4762-M2-0.4x10.0_part_0",
+                        "/shaft/shaft_0/blade-locks_0/a8cb2d54-4a5b-11ef-887c-0242ac110002_0/SocketHeadCapScrew-iso4762-M2-0.4x10.0_part_0",
+                        "/shaft/shaft_0/blade-locks_0/a8cb2df4-4a5b-11ef-887c-0242ac110002_0/SocketHeadCapScrew-iso4762-M2-0.4x10.0_part_0",
+                        "/shaft/shaft_0/blade-locks_0/a8cb2ee4-4a5b-11ef-887c-0242ac110002_0/SocketHeadCapScrew-iso4762-M2-0.4x10.0_part_0",
+                        "/shaft/shaft_0/blade-locks_0/a8cb2f8e-4a5b-11ef-887c-0242ac110002_0/SocketHeadCapScrew-iso4762-M2-0.4x10.0_part_0",
+                        "/shaft/shaft_0/blade-locks_0/a8cb3042-4a5b-11ef-887c-0242ac110002_0/SocketHeadCapScrew-iso4762-M2-0.4x10.0_part_0",
+                        "/shaft/shaft_0/blade-locks_0/a8cb3100-4a5b-11ef-887c-0242ac110002_0/SocketHeadCapScrew-iso4762-M2-0.4x10.0_part_0",
+                        "/shaft/shaft_0/blade-locks_0/a8cb31aa-4a5b-11ef-887c-0242ac110002_0/SocketHeadCapScrew-iso4762-M2-0.4x10.0_part_0",
+                        "/shaft/shaft_0/blade-locks_0/a8cb3254-4a5b-11ef-887c-0242ac110002_0/SocketHeadCapScrew-iso4762-M2-0.4x10.0_part_0",
+                        "/shaft/shaft_0/blade-locks_0/a8cb3312-4a5b-11ef-887c-0242ac110002_0/SocketHeadCapScrew-iso4762-M2-0.4x10.0_part_0",
+                        "/shaft/shaft_0/blade-locks_0/a8cb33a8-4a5b-11ef-887c-0242ac110002_0/SocketHeadCapScrew-iso4762-M2-0.4x10.0_part_0",
+                        "/shaft/shaft_0/blade-locks_0/a8cb3448-4a5b-11ef-887c-0242ac110002_0/SocketHeadCapScrew-iso4762-M2-0.4x10.0_part_0",
+                        "/shaft/shaft_0/blade-locks_0/a8cb351a-4a5b-11ef-887c-0242ac110002_0/SocketHeadCapScrew-iso4762-M2-0.4x10.0_part_0",
+                        "/shaft/shaft_0/blade-locks_0/a8cb35a6-4a5b-11ef-887c-0242ac110002_0/SocketHeadCapScrew-iso4762-M2-0.4x10.0_part_0",
+                        "/shaft/shaft_0/blade-locks_0/a8cb363c-4a5b-11ef-887c-0242ac110002_0/SocketHeadCapScrew-iso4762-M2-0.4x10.0_part_0",
+                        "/shaft/shaft_0/blade-locks_0/a8cb3768-4a5b-11ef-887c-0242ac110002_0/SocketHeadCapScrew-iso4762-M2-0.4x10.0_part_0",
+                        "/shaft/shaft_0/blade-locks_0/a8cb3808-4a5b-11ef-887c-0242ac110002_0/SocketHeadCapScrew-iso4762-M2-0.4x10.0_part_0",
+                        "/shaft/shaft_0/blade-locks_0/a8cb389e-4a5b-11ef-887c-0242ac110002_0/SocketHeadCapScrew-iso4762-M2-0.4x10.0_part_0",
+                        "/shaft/shaft_0/blade-locks_0/a8cb3966-4a5b-11ef-887c-0242ac110002_0/SocketHeadCapScrew-iso4762-M2-0.4x10.0_part_0",
+                        "/shaft/shaft_0/blade-locks_0/a8cb39f2-4a5b-11ef-887c-0242ac110002_0/SocketHeadCapScrew-iso4762-M2-0.4x10.0_part_0",
+                        "/shaft/shaft_0/blade-locks_0/a8cb3a7e-4a5b-11ef-887c-0242ac110002_0/SocketHeadCapScrew-iso4762-M2-0.4x10.0_part_0",
+                        "/shaft/shaft_0/blade-locks_0/a8cb3b00-4a5b-11ef-887c-0242ac110002_0/SocketHeadCapScrew-iso4762-M2-0.4x10.0_part_0",
+                        "/shaft/shaft_0/blade-locks_0/a8cb3bc8-4a5b-11ef-887c-0242ac110002_0/SocketHeadCapScrew-iso4762-M2-0.4x10.0_part_0",
+                        "/shaft/shaft_0/blade-locks_0/a8cb3c5e-4a5b-11ef-887c-0242ac110002_0/SocketHeadCapScrew-iso4762-M2-0.4x10.0_part_0",
+                        "/shaft/shaft_0/blade-locks_0/a8cb3cea-4a5b-11ef-887c-0242ac110002_0/SocketHeadCapScrew-iso4762-M2-0.4x10.0_part_0",
+                        "/shaft/shaft_0/blade-locks_0/a8cb3d80-4a5b-11ef-887c-0242ac110002_0/SocketHeadCapScrew-iso4762-M2-0.4x10.0_part_0"
+                    ],
+                    "color": [
+                        204.0,
+                        204.0,
+                        204.0,
+                        1.0
+                    ],
+                    "metadata": null
+                }
+            ]
+        }
+    }
+}

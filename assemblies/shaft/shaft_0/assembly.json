@@ -1,0 +1,11 @@
+{
+    "path": "/shaft/shaft_0",
+    "location": null,
+    "children": [
+        "/shaft/shaft_0/blade-row_0",
+        "/shaft/shaft_0/rotor_0",
+        "/shaft/shaft_0/shaft-connect_0",
+        "/shaft/shaft_0/blade-locks_0"
+    ],
+    "parts": []
+}

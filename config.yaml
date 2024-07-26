@@ -1,0 +1,8 @@
+cad_path: AxialShaft.step
+name: AxialShaft
+options:
+  include_assets: true
+  max_name_depth: 3
+  normalize_axis: false
+  use_references: true
+repo_url: git@github.com:afshawnlotfi/AxialShaft.git

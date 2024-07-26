@@ -1,0 +1,38 @@
+{
+    "path": "/shaft/shaft_0/blade-locks_0/a8cb351a-4a5b-11ef-887c-0242ac110002_0",
+    "location": {
+        "position": [
+            -38.00453149689,
+            4.654212785077e-15,
+            52.169581252253
+        ],
+        "orientation": [
+            [
+                -1.110223024625e-16,
+                -1.224646799147e-16,
+                1.0
+            ],
+            [
+                1.359631073447e-32,
+                -1.0,
+                -1.224646799147e-16
+            ],
+            [
+                1.0,
+                6.927121900793188e-45,
+                1.110223024625e-16
+            ]
+        ]
+    },
+    "children": [],
+    "parts": [
+        {
+            "path": "/shaft/shaft_0/blade-locks_0/a8cb351a-4a5b-11ef-887c-0242ac110002_0/SocketHeadCapScrew-iso4762-M2-0.4x10.0_part_0",
+            "variation": {
+                "checksum": "09d18b470aa545f4aba4e8678a596727",
+                "id": 1
+            },
+            "location": null
+        }
+    ]
+}

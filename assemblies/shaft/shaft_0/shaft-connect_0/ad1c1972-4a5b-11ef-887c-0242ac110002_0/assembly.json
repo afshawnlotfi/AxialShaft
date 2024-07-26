@@ -1,0 +1,38 @@
+{
+    "path": "/shaft/shaft_0/shaft-connect_0/ad1c1972-4a5b-11ef-887c-0242ac110002_0",
+    "location": {
+        "position": [
+            3.367271940511e-15,
+            -56.6179876179,
+            3.4825
+        ],
+        "orientation": [
+            [
+                1.232595164408e-32,
+                -1.0,
+                1.110223024625e-16
+            ],
+            [
+                -1.110223024625e-16,
+                -1.110223024625e-16,
+                -1.0
+            ],
+            [
+                1.0,
+                5.167288087197518e-45,
+                -1.110223024625e-16
+            ]
+        ]
+    },
+    "children": [],
+    "parts": [
+        {
+            "path": "/shaft/shaft_0/shaft-connect_0/ad1c1972-4a5b-11ef-887c-0242ac110002_0/SocketHeadCapScrew-iso4762-M2-0.4x12.0_part_0",
+            "variation": {
+                "checksum": "004eb64ead80523a7212c1faa49e48bc",
+                "id": 1
+            },
+            "location": null
+        }
+    ]
+}

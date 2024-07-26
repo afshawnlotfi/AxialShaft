@@ -1,0 +1,38 @@
+{
+    "path": "/shaft/shaft_0/shaft-connect_0/aaa1a1ee-4a5b-11ef-887c-0242ac110002_0",
+    "location": {
+        "position": [
+            -7.049973442328e-15,
+            -39.00453149689,
+            61.622081252253
+        ],
+        "orientation": [
+            [
+                -2.465190328816e-32,
+                1.0,
+                -2.22044604925e-16
+            ],
+            [
+                -1.110223024625e-16,
+                -2.22044604925e-16,
+                -1.0
+            ],
+            [
+                -1.0,
+                -1.0334576174395036e-44,
+                1.110223024625e-16
+            ]
+        ]
+    },
+    "children": [],
+    "parts": [
+        {
+            "path": "/shaft/shaft_0/shaft-connect_0/aaa1a1ee-4a5b-11ef-887c-0242ac110002_0/HeatSetNut-Hilitchi-M2-0.4_part_0",
+            "variation": {
+                "checksum": "6196dae2942fef1caf7ef10ce636d126",
+                "id": 1
+            },
+            "location": null
+        }
+    ]
+}

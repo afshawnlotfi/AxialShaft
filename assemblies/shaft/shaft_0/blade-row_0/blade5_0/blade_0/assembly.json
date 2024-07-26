@@ -1,0 +1,15 @@
+{
+    "path": "/shaft/shaft_0/blade-row_0/blade5_0/blade_0",
+    "location": null,
+    "children": [],
+    "parts": [
+        {
+            "path": "/shaft/shaft_0/blade-row_0/blade5_0/blade_0/blade_part_0",
+            "variation": {
+                "checksum": "cfa9d131167f1b0d9de917392b9b3fef",
+                "id": 1
+            },
+            "location": null
+        }
+    ]
+}
